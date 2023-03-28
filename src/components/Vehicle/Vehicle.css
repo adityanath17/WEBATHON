@@ -1,0 +1,65 @@
+.App1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4cd77;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/005/157/645/original/indian-flag-theme-republic-day-watercolor-texture-patriotic-background-free-vector.jpg');
+   
+    background-size: 100%;
+    background-position: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ccc;
+    padding: 20px ;
+    margin:20px;  
+    border-radius:  10px;
+    background-color: rgb(145, 184, 228);
+  }
+  
+  #S{
+    background-color: #ffffff;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }

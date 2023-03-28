@@ -1,0 +1,11 @@
+.btn
+{
+    float: right;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.col-11
+{
+    border: 2px solid black;
+    border-radius: 2px;
+}

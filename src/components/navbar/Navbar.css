@@ -1,0 +1,28 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(135, 187, 187);
+}
+
+.c1,.c2
+{
+    font-size: 2rem;
+    color: yellow;
+    cursor: pointer;
+}
+.c1:hover,.c2:hover{
+    outline:3px solid rgb(126, 164, 23);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(169, 17, 6);
+}
+
+.bg-dark{
+    border-radius: 10px;
+}
+.image{
+   
+   width: 70px;
+    height: 65px;
+      border-radius: 50%;
+}
