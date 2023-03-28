@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "Name": "Venu",
+      "age": "19",
+      "gender": "male",
+      "dob": "2023-01-12",
+      "mobile": "9876543210",
+      "Email": "dshak@gmail.com",
+      "uhi": "Venu@1234",
+      "Bloodgroup": "AB-",
+      "weight": "87",
+      "height": "138",
+      "id": 1
+    }
+  ]
+}
